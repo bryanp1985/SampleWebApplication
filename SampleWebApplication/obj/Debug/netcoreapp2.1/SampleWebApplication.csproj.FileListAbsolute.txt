@@ -1,0 +1,17 @@
+C:\Users\bperezgu\source\repos\SampleWebApplication\SampleWebApplication\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\bperezgu\source\repos\SampleWebApplication\SampleWebApplication\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\bperezgu\source\repos\SampleWebApplication\SampleWebApplication\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\bperezgu\source\repos\SampleWebApplication\SampleWebApplication\obj\Debug\netcoreapp2.1\SampleWebApplication.AssemblyInfoInputs.cache
+C:\Users\bperezgu\source\repos\SampleWebApplication\SampleWebApplication\obj\Debug\netcoreapp2.1\SampleWebApplication.AssemblyInfo.cs
+C:\Users\bperezgu\source\repos\SampleWebApplication\SampleWebApplication\bin\Debug\netcoreapp2.1\SampleWebApplication.deps.json
+C:\Users\bperezgu\source\repos\SampleWebApplication\SampleWebApplication\bin\Debug\netcoreapp2.1\SampleWebApplication.runtimeconfig.json
+C:\Users\bperezgu\source\repos\SampleWebApplication\SampleWebApplication\bin\Debug\netcoreapp2.1\SampleWebApplication.runtimeconfig.dev.json
+C:\Users\bperezgu\source\repos\SampleWebApplication\SampleWebApplication\bin\Debug\netcoreapp2.1\SampleWebApplication.dll
+C:\Users\bperezgu\source\repos\SampleWebApplication\SampleWebApplication\bin\Debug\netcoreapp2.1\SampleWebApplication.pdb
+C:\Users\bperezgu\source\repos\SampleWebApplication\SampleWebApplication\obj\Debug\netcoreapp2.1\SampleWebApplication.csprojAssemblyReference.cache
+C:\Users\bperezgu\source\repos\SampleWebApplication\SampleWebApplication\obj\Debug\netcoreapp2.1\SampleWebApplication.RazorAssemblyInfo.cache
+C:\Users\bperezgu\source\repos\SampleWebApplication\SampleWebApplication\obj\Debug\netcoreapp2.1\SampleWebApplication.RazorAssemblyInfo.cs
+C:\Users\bperezgu\source\repos\SampleWebApplication\SampleWebApplication\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\bperezgu\source\repos\SampleWebApplication\SampleWebApplication\obj\Debug\netcoreapp2.1\SampleWebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\bperezgu\source\repos\SampleWebApplication\SampleWebApplication\obj\Debug\netcoreapp2.1\SampleWebApplication.dll
+C:\Users\bperezgu\source\repos\SampleWebApplication\SampleWebApplication\obj\Debug\netcoreapp2.1\SampleWebApplication.pdb
